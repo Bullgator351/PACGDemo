@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="74613db9-8b6d-4290-95b8-a5605216ec72">
+  <section name="Character" shared="False">
+    <card qty="1" id="36d7d85d-8658-47aa-bc1f-2c7058b17f81">Valeros</card>
+    <card qty="1" id="44789e44-79f9-4cfd-96ed-f4ef9326a90c">Valeros</card>
+  </section>
+  <section name="Weapon" shared="False">
+    <card qty="2" id="60056af0-777e-4fd9-8443-eff9e4083e7d">Longsword</card>
+    <card qty="1" id="6a02cf23-a0c3-47d9-9c6f-42cdd0a9dd32">Mace</card>
+    <card qty="1" id="99523793-463c-41bd-84c2-046ec7531443">Sandpoint Cathedral</card>
+  </section>
+  <section name="Spell" shared="False" />
+  <section name="Armor" shared="False">
+    <card qty="1" id="14e3b040-d340-4c0c-b903-b822e390d333">Chain Mail</card>
+    <card qty="1" id="92ef87f2-05cf-4f38-8685-71294b419570">Wooden Shield</card>
+  </section>
+  <section name="Item" shared="False">
+    <card qty="1" id="c0890800-0efc-4e9e-bf0b-af244f53a452">Mattock</card>
+    <card qty="1" id="68505a03-b16d-4682-be1d-3d0d70f0c6e1">Potion of Healing</card>
+  </section>
+  <section name="Ally" shared="False">
+    <card qty="1" id="402e372e-12da-412a-9d8f-6e4f54a02b58">Night Watch</card>
+  </section>
+  <section name="Blessing" shared="False">
+    <card qty="3" id="b998a094-d4de-4cab-9a73-fdd9c117d31e">Blessing of the Gods</card>
+  </section>
+  <section name="Feat" shared="False" />
+  <section name="Story" shared="True" />
+  <section name="Henchman" shared="True" />
+  <section name="Monster" shared="True" />
+  <section name="Barrier" shared="True" />
+  <section name="Armor" shared="True" />
+  <section name="Weapon" shared="True" />
+  <section name="Spell" shared="True" />
+  <section name="Item" shared="True" />
+  <section name="Ally" shared="True" />
+  <section name="Blessing" shared="True" />
+  <section name="Loot" shared="True" />
+  <section name="Location" shared="True" />
+  <section name="Villain" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Demo Set" id="6a41619d-a250-4190-a44f-a923683e654d" gameId="74613db9-8b6d-4290-95b8-a5605216ec72" gameVersion="1.0.7.13" version="1.2.0.0">
+    <cards>
+        <card id="513558d1-c088-4e96-8810-7d65e534a508" name="Ezren">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Character" />
+            <property name="Subtype2" value="Front" />
+            <property name="Traits" value="Male&#10;Human&#10;Wizard" />
+            <property name="Flavour" value="After learning that the father whose name he’d spent most of his adult life trying to clear was indeed guilty, Ezren abandoned his former life and became a wizard. Finding no masters willing to take on an apprentice of his age, he devoted himself to unlocking the mysteries of magic alone. His studies soon revealed a true aptitude for the arcane arts, and he now seeks to explore the world he neglected for so long." />
+            <property name="Attr2" value="Weapon: 1  [ ] 2&#10;Spell: 8  [ ] 9  [ ] 10  [ ] 11&#10;Armor: -  [ ] 1&#10;Item:3  [ ] 4  [ ] 5  [ ] 6&#10;Ally: 3  [ ] 4  [ ] 5&#10;Blessing: -" />
+            <property name="Attr3" value="Spell" />
+        <alternate name="Ezren" type="B">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Character" />
+            <property name="Subtype2" value="Back" />
+            <property name="Traits" value="Male&#10;Human&#10;Wizard" />
+            <property name="Attr1" value="After you play a spell with the Arcane trait, you may examine the top card of your deck; if it’s a spell, you may put it in your hand.&#10;If you acquire a card with the Magic trait during an exploration, you may immediately explore again.&#10;[ ] Add 1 ([ ] 2) to your check to recharge a card." />
+            <property name="Attr2" value="Strength: d6&#10;Dexterity: d6  [ ] +1  [ ] +2  [ ] +3&#10;Constitution: d4  [ ] +1  [ ] +2&#10;Intelligence: d12  [ ] +1  [ ] +2  [ ] +3  [ ] +4&#10;  Arcane+2, Knowledge+2&#10;Wisdom: d8  [ ] +1  [ ] +2&#10;Charisma: d6  [ ] +1  [ ] +2  [ ] +3" />
+            <property name="Attr3" value="6  [ ] 7  [ ] 8" />
+        </alternate>
+        </card>
+        <card id="1dce50e4-71b4-40a9-aaa9-97002b9dc096" name="Sage">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Ally" />
+            <property name="Traits" value="Basic" />
+        </card>
+        <card id="a432ffa0-3cdb-420d-9598-324b530328f0" name="Standard Bearer">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Ally" />
+            <property name="Traits" value="Basic" />
+        </card>
+        <card id="e663a3cb-8d78-4c2e-a94c-22ad4d5e6489" name="Blast Stone">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Item" />
+            <property name="Traits" value="Basic" />
+        </card>
+        <card id="62ac3453-ccf4-47f3-adc6-5ad81213abaa" name="Bracers of Protection">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Item" />
+            <property name="Traits" value="Basic" />
+        </card>
+        <card id="04ae0e3f-26d2-4669-acc7-6fc0e954f3f9" name="Codex">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Item" />
+            <property name="Traits" value="Book&#10;Basic" />
+            <property name="Attr1" value="Discard this card to add 1 die to your check to acquire a boon." />
+            <property name="Attr2" value="Intelligence&#10;Knowledge" />
+            <property name="Attr3" value="8" />
+            <property name="Recharge" value="Succeed at an Intelligence or Knowledge 10 check to recharge this card instead of discarding it." />
+        </card>
+        <card id="bd19406a-ba4c-49ee-b51f-ebb6a73ab034" name="Arcane Armor">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Spell" />
+            <property name="Traits" value="Basic" />
+        </card>
+        <card id="0306324b-dcbb-42e1-bf9e-799120a269c1" name="Force Missile">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Spell" />
+            <property name="Traits" value="Magic&#10;Arcane&#10;Attack&#10;Force&#10;Basic" />
+            <property name="Attr1" value="For your combat check, discard this card to roll your Arcane die + 2d4 with the Force trait.&#10;If you do not have the Arcane skill, banish this card." />
+            <property name="Attr2" value="Intelligence&#10;Arcane" />
+            <property name="Attr3" value="4" />
+            <property name="Recharge" value="Succeed at an Arcane 6 check to recharge this card instead of discarding it." />
+        </card>
+        <card id="653becf4-ad48-4aef-9827-04e6723d57e8" name="Levitate">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Spell" />
+            <property name="Traits" value="Basic" />
+        </card>
+        <card id="49b83b45-3712-4581-8ad1-c1f12e933cec" name="Lightning Touch">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Spell" />
+            <property name="Traits" value="Basic" />
+        </card>
+        <card id="f8f951a4-571b-41e4-a0fb-83ab0b60d4ea" name="Sleep">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Spell" />
+            <property name="Traits" value="Basic" />
+        </card>
+        <card id="668868ef-bdbf-4006-89e1-218c17130067" name="Quarterstaff">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Weapon" />
+            <property name="Traits" value="Basic" />
+        </card>
+        <card id="a3a0a74f-a98e-4063-993c-46e81eb8391e" name="Kyra">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Character" />
+            <property name="Subtype2" value="Front" />
+            <property name="Traits" value="Female&#10;Human&#10;Cleric" />
+            <property name="Flavour" value="Kyra and her family grew up near a small temple to Sarenrae, the goddess of healing, honesty, redemption, and the sun. When bandits attacked Kyra’s village, Sarenrae’s priestesses defended the innocent, driving off the raiders at the cost of their lives and their sanctuary. Standing in the burned ruin of the temple, young Kyra swore her life and sword arm to the goddess, promising mercy to the deserving and a quick death to those who spread darkness." />
+            <property name="Attr2" value="Weapon: 2  [ ] 3  [ ] 4&#10;Spell: 3  [ ] 4  [ ] 5&#10;Armor: 2  [ ] 3  [ ] 4&#10;Item: 1  [ ] 2&#10;Ally: 1  [ ] 2&#10;Blessing: 6  [ ] 7  [ ] 8" />
+            <property name="Attr3" value="Blessing" />
+        <alternate name="Kyra" type="B">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Character" />
+            <property name="Subtype2" value="Back" />
+            <property name="Traits" value="Female&#10;Human&#10;Cleric" />
+            <property name="Attr1" value="Instead of your first exploration on a turn, you may reveal a card with the Divine trait to choose a character at your location. Shuffle 1d4+1 ([ ]+2) random cards from his discard pile into his deck, then discard the card you revealed.&#10;Add 1d8 ([ ]+1) with the Magic trait to your check to defeat a bane with the Undead trait." />
+            <property name="Attr2" value="Strength: d6  [ ] +1  [ ] +2  [ ] +3  [ ] +4&#10;  Melee+2&#10;Dexterity: d4  [ ] +1&#10;Constitution: d6  [ ] +1  [ ] +2&#10;  Fortitude+3&#10;Intelligence: d6  [ ] +1  [ ] +2&#10;Wisdom: d12  [ ] +1  [ ] +2  [ ] +3  [ ] +4&#10;  Divine+2&#10;Charisma: d6  [ ] +1  [ ] +2" />
+            <property name="Attr3" value="5  [ ] 6" />
+            <property name="Attr4" value="[X] Light Armors, [X] Heavy Armors, [ ] Weapons" />
+        </alternate>
+        </card>
+        <card id="08ed22ff-9e5c-4fa7-8ba8-d855da7bedd6" name="Guard">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Ally" />
+            <property name="Traits" value="Human&#10;Basic" />
+            <property name="Attr1" value="Recharge this card to add 1d6 to your Perception Check.&#10;Banish this card to reduce damage dealt to any character by 3." />
+            <property name="Attr2" value="Constitution&#10;Fortitude" />
+            <property name="Attr3" value="4" />
+            <property name="Attr4" value="Charisma&#10;Diplomacy" />
+            <property name="Attr5" value="6" />
+        </card>
+        <card id="2b7acff4-1d7a-4fb5-bbad-f680668d864b" name="Half-Plate">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Armor" />
+            <property name="Traits" value="Heavy Armor&#10;Elite" />
+            <property name="Attr1" value="Recharge this card to reduce Combat damage dealt to you by 3.&#10;Banish this card to reduce all damage dealt to you to 0; if you are proficient with heavy armors, bury this card instead." />
+            <property name="Attr2" value="Constitution&#10;Fortitude" />
+            <property name="Attr3" value="4" />
+        </card>
+        <card id="5be9295e-789f-498f-a169-860819e56db3" name="Blessing of the Gods">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Blessing" />
+            <property name="Traits" value="Divine&#10;Basic" />
+            <property name="Attr1" value="If you encounter this card, you automatically acquire it.&#10;Discard this card to add 1 die to a check.&#10;Discard this card to explore your location.&#10;You may instead treat this card as if it were identical to the top card of the blessings discard pile." />
+            <property name="Attr2" value="None" />
+            <property name="Recharge" value="None" />
+        </card>
+        <card id="ac532258-6361-49d5-88a8-df48facdd94b" name="Cure">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Spell" />
+            <property name="Traits" value="Basic" />
+        </card>
+        <card id="125d52bc-1a73-4051-b71e-fedf5aac41ee" name="Holy Water">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Item" />
+            <property name="Traits" value="Basic" />
+        </card>
+        <card id="835d2947-6072-49ae-b77d-35e8b31613a8" name="Guidance">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Spell" />
+            <property name="Traits" value="Basic" />
+        </card>
+        <card id="eb00277e-8f59-4fbb-afaf-9b7d05d6de43" name="Mace">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Weapon" />
+            <property name="Traits" value="Basic" />
+        </card>        
+        <card id="b223538a-b367-4193-8f88-2c471be07c30" name="Quarterstaff">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Weapon" />
+            <property name="Traits" value="Basic" />
+        </card>
+        <card id="11de0cad-95e8-475c-830e-6c3a5a40c5ee" name="Merisiel">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Character" />
+            <property name="Subtype2" value="Front" />
+            <property name="Traits" value="Female&#10;Elf&#10;Rogue" />
+            <property name="Flavour" value="Orphaned at a young age and raised by humans in the slums, the elf Merisiel saw many friends grow old and die in the decades it took her to become an adult. Unfettered by responsibilities, she now travels where her curiosity takes her, wandering the world with those she calls friends at the time. Merisiel believes in experiencing life to the fullest—you never know when you’ll meet an unexpected end—and that there are few problems a dagger can’t solve." />
+            <property name="Attr2" value="Weapon: 2  [ ] 3  [ ] 4&#10;Spell: -  [ ] 1&#10;Armor: 1  [ ] 2&#10;Item: 6  [ ] 7  [ ] 8  [ ] 9&#10;Ally: 2  [ ] 3&#10;Blessing: 4  [ ] 5  [ ] 6" />
+            <property name="Attr3" value="Item" />
+        <alternate name="Merisiel" type="B">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Character" />
+            <property name="Subtype2" value="Back" />
+            <property name="Traits" value="Female&#10;Elf&#10;Rogue" />
+            <property name="Attr1" value="You may evade your encounter.&#10;If you are the only character at your location, you may recharge a card to add 1d6 ([ ]+1)([ ]+2) to your combat check, or discard it to add an additional 1d6." />
+            <property name="Attr2" value="Strength: d8  [ ] +1  [ ] +2  [ ] +3&#10;Dexterity: d12  [ ] +1  [ ] +2  [ ] +3  [ ] +4&#10;  Acrobatics+2, Disable+2, Stealth+2&#10;Constitution: d6  [ ] +1  [ ] +2&#10;Intelligence: d4  [ ] +1  [ ] +2  [ ] +3&#10;Wisdom: d6  [ ] +1&#10;  Perception+2&#10;Charisma: d6  [ ] +1  [ ] +2" />
+            <property name="Attr3" value="5  [ ] 6" />
+            <property name="Attr4" value="[X] Light Armors, [ ] Weapons" />
+        </alternate>
+        </card>
+        <card id="f3bc85be-6b6d-42aa-ad98-7a013c72665d" name="Burglar">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Ally" />
+            <property name="Traits" value="Basic" />
+        </card>
+        <card id="64afddeb-9d41-48c3-b15e-987e9ef56494" name="Guard">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Ally" />
+            <property name="Traits" value="Human&#10;Basic" />
+            <property name="Attr1" value="Recharge this card to add 1d6 to your Perception Check.&#10;Banish this card to reduce damage dealt to any character by 3." />
+            <property name="Attr2" value="Constitution&#10;Fortitude" />
+            <property name="Attr3" value="4" />
+            <property name="Attr4" value="Charisma&#10;Diplomacy" />
+            <property name="Attr5" value="6" />
+        </card>
+        <card id="10b3f741-1be8-4e81-ac30-26147aea5052" name="Leather Armor">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Armor" />
+            <property name="Traits" value="Basic" />
+        </card>
+        <card id="2579bc04-8daa-4ac0-a313-3baab6f8d547" name="Blessing of the Gods">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Blessing" />
+            <property name="Traits" value="Divine&#10;Basic" />
+            <property name="Attr1" value="If you encounter this card, you automatically acquire it.&#10;Discard this card to add 1 die to a check.&#10;Discard this card to explore your location.&#10;You may instead treat this card as if it were identical to the top card of the blessings discard pile." />
+            <property name="Attr2" value="None" />
+            <property name="Recharge" value="None" />
+        </card>
+        <card id="39fc19fc-ca9e-41f2-a538-4a65b6e1a90e" name="Potion of Glibness">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Item" />
+            <property name="Traits" value="Basic" />
+        </card>
+        <card id="f9b6d058-35d5-4a72-a41b-e8bc7e106dd4" name="Thieves' Tools">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Item" />
+            <property name="Traits" value="Basic" />
+        </card>
+        <card id="38fe327f-0eaa-4ffb-af6f-df2580b32172" name="Dagger">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Weapon" />
+            <property name="Traits" value="Knife&#10;Panged&#10;Piercing&#10;Basic" />
+            <property name="Attr1" value="For your combat check, reveal this card to roll your Dexterity or Ranged + 1d4; you may additionally recharge this card to add another 1d4.&#10;When playing another weapon, you may discard this card to add 1d4 to the combat check." />
+            <property name="Attr2" value="Dexterity&#10;Ranged" />
+            <property name="Attr3" value="3" />
+        </card>
+        <card id="a9759def-61c0-4afb-b141-d99fc09ad203" name="Dart">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Weapon" />
+            <property name="Traits" value="Basic" />
+            <property name="Attr1" value="For your combat check, reveal this card to roll your Dexterity or Ranged die + 1d4.&#10;If you fail a combat check using this weapon, you may discard this card to ignore the result and reroll the dice. You must take the second result." />
+        </card>
+        <card id="44789e44-79f9-4cfd-96ed-f4ef9326a90c" name="Valeros">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Character" />
+            <property name="Subtype2" value="Front" />
+            <property name="Traits" value="Male&#10;Human&#10;Fighter" />
+            <property name="Flavour" value="Valeros is a good-hearted former mercenary whose longing for adventure convinced him to flee an arranged betrothal to a farmer’s daughter. He trained himself in swordplay and spent many years as a mercenary, but now he fights for those in need. Though noble of heart and fiercely loyal, Valeros hides such sentiments under a jaded and crass demeanor, frequently observing that there’s nothing better than “an evening of hard drinking and soft company.”" />
+            <property name="Attr2" value="Weapon: 5  [ ] 6  [ ] 7  [ ] 8&#10;Spell: -&#10;Armor: 3  [ ] 4  [ ] 5&#10;Item: 2  [ ] 3  [ ] 4&#10;Ally: 2  [ ] 3  [ ] 4&#10;Blessing: 3  [ ] 4" />
+            <property name="Attr3" value="Weapon" />
+        <alternate name="Valeros" type="B">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Character" />
+            <property name="Subtype2" value="Back" />
+            <property name="Traits" value="Male&#10;Human&#10;Fighter" />
+            <property name="Attr1" value="Add 1d4 ([ ]+1) ([ ]+2) to another character’s combat check at your location.&#10;When you play a weapon, you may recharge it instead of discarding it." />
+            <property name="Attr2" value="Strength: d10  [ ] +1  [ ] +2  [ ] +3  [ ] +4&#10;  Melee+3&#10;Dexterity: d8  [ ] +1  [ ] +2&#10;Constitution: d8  [ ] +1  [ ] +2  [ ] +3  [ ] +4&#10;Intelligence: d6  [ ] +1&#10;Wisdom: d4  [ ] +1  [ ] +2&#10;Charisma: d6  [ ] +1  [ ] +2&#10;  Diplomacy+2" />
+            <property name="Attr3" value="4  [ ] 5  [ ] 6" />
+            <property name="Attr4" value="[X] Light Armors, [X] Heavy Armors, [X] Weapons" />
+        </alternate>
+        </card>
+        <card id="402e372e-12da-412a-9d8f-6e4f54a02b58" name="Night Watch">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Ally" />
+            <property name="Traits" value="Basic" />
+        </card>
+        <card id="14e3b040-d340-4c0c-b903-b822e390d333" name="Chain Mail">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Armor" />
+            <property name="Traits" value="Basic" />
+        </card>
+        <card id="92ef87f2-05cf-4f38-8685-71294b419570" name="Wooden Shield">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Armor" />
+            <property name="Traits" value="Shield&#10;Offhand&#10;Basic" />
+            <property name="Attr1" value="Recharge this card to reduce Combat damage dealt to you by 2. If you are proficient with light armors, you may play another armor on this check.&#10;If you played a weapons with the 2-Handed trait on this check, you may not play this card." />
+            <property name="Attr2" value="Constitution&#10;Fortitude" />
+            <property name="Attr3" value="4" />
+        </card>
+        <card id="b998a094-d4de-4cab-9a73-fdd9c117d31e" name="Blessing of the Gods">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Blessing" />
+            <property name="Traits" value="Divine&#10;Basic" />
+            <property name="Attr1" value="If you encounter this card, you automatically acquire it.&#10;Discard this card to add 1 die to a check.&#10;Discard this card to explore your location.&#10;You may instead treat this card as if it were identical to the top card of the blessings discard pile." />
+            <property name="Attr2" value="None" />
+            <property name="Recharge" value="None" />
+        </card>
+        <card id="c0890800-0efc-4e9e-bf0b-af244f53a452" name="Mattock">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Item" />
+            <property name="Traits" value="Basic" />
+        </card>
+        <card id="68505a03-b16d-4682-be1d-3d0d70f0c6e1" name="Potion of Healing">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Item" />
+        </card>
+        <card id="60056af0-777e-4fd9-8443-eff9e4083e7d" name="Longsword">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Weapon" />
+            <property name="Traits" value="Sword&#10;Melee&#10;Slashing&#10;Basic" />
+            <property name="Attr1" value="For your combat check, reveal this card to roll your Strength or Melee die + 1d8; you may additionally discard this card to add another 1d6. If you aren’t proficient with weapons, the difficulty of this check is increased by 4." />
+            <property name="Attr2" value="Strength&#10;Melee" />
+            <property name="Attr3" value="6" />
+        </card>
+        <card id="6a02cf23-a0c3-47d9-9c6f-42cdd0a9dd32" name="Mace">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Weapon" />
+            <property name="Traits" value="Basic" />
+        </card>
+        <card id="144294c8-e555-42b2-8808-dbc27c7dd1b1" name="Short Sword">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Weapon" />
+            <property name="Traits" value="Sword&#10;Melee&#10;Piercing&#10;Finesse&#10;Basic" />
+            <property name="Attr1" value="For your combat check, reveal this card to roll your Strength of Melee die + 1d6; you may additionally discard this card to add another 1d6. If you aren’t proficient with weapons, the difficulty of this check is increased by 4." />
+            <property name="Attr2" value="Strength&#10;Melee" />
+            <property name="Attr3" value="4" />
+        </card>
+        <card id="8dfb4d20-7bd0-4ead-a28e-01139b336cf6" name="Burnt Offerings">
+            <property name="Abr" value="1" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Story" />
+            <property name="Subtype" value="Adventure" />
+            <property name="Subtype2" value="Front" />
+        <alternate name="Burnt Offerings" type="B">
+            <property name="Abr" value="1" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Story" />
+            <property name="Subtype" value="Adventure" />
+            <property name="Subtype2" value="Back" />
+            <property name="Attr1" value="Attack on Sandpoint&#10;Local Heroes&#10;Trouble in Sandpoint&#10;Approach to Thistletop&#10;Thistletop Delve" />
+            <property name="Attr2" value="Each character gains a card feat" />
+        </alternate>
+        </card>
+        <card id="3999a9cb-261c-4fe4-a277-74a67f60af42" name="Attack on Sandpoint">
+            <property name="Abr" value="1" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Story" />
+            <property name="Subtype" value="Scenario" />
+            <property name="Subtype2" value="Front" />
+            <property name="Attr1" value="Town Square&#10;Swallowtail Festival&#10;City Gate&#10;Sandpoint Cathedral&#10;The Rusty Dragon&#10;The Old Light&#10;Wooden Bridge&#10;Desecrated Vault" />
+        <alternate name="Attack on Sandpoint" type="B">
+            <property name="Abr" value="1" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Story" />
+            <property name="Subtype" value="Scenario" />
+            <property name="Subtype2" value="Back" />
+            <property name="Attr2" value="Ripnugget and Stickfoot" />
+            <property name="Attr3" value="Tsuto Kaikitsu&#10;Goblin Raiders" />
+            <property name="Attr4" value="Each character gains a skill feat" />
+        </alternate>
+        </card>
+        <card id="0429c27f-bcee-438f-bfc3-70d4e368b1c0" name="Desecrated Vault">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Location" />
+            <property name="Subtype2" value="Front" />
+            <property name="Attr1" value="Monster 4&#10;Barrier 1&#10;Weapon 0&#10;Spell 1&#10;Armor 0&#10;Item 2&#10;Ally 0&#10;Blessing 1" />
+            <property name="Attr2" value="If you would defeat a bane with the Undead trait here, roll 1d6. On a 1, the monster is undefeated." />
+            <property name="Attr3" value="Succeed at a Wisdom or Divine 6 check." />
+            <property name="Attr4" value="On closing, each character at this location may recharge an item from their discard pile." />
+        <alternate name="Desecrated Vault" type="B">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Location" />
+            <property name="Subtype2" value="Back" />
+            <property name="Flavour" value="Sobbing angels and snarling fields leer from the crumbling heights of this overgrown mausoleum. Ages have passed since anyone cared for the bodies sheltered within, evidenced by the grim vault’s dilapidated statuary and its forced open heavy stone doors. The echoes of something murmuring within suggest that whatever lurks here now doesn’t rest in peace." />
+        </alternate>
+        </card>
+        <card id="99523793-463c-41bd-84c2-046ec7531443" name="Sandpoint Cathedral">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Location" />
+            <property name="Subtype2" value="Front" />
+            <property name="Attr1" value="Monster 2&#10;Barrier 0&#10;Weapon 0&#10;Spell 2&#10;Armor 0&#10;Item 1&#10;Ally 1&#10;Blessing 3" />
+            <property name="Attr2" value="If you defeat a monster, you may add a blessing from your discard pile to your hand." />
+            <property name="Attr3" value="Banish either a blessing or father Zantus." />
+            <property name="Attr4" value="When you end your turn here, you may attempt a Wisdom 6 check to recharge a blessing from your discard pile" />
+        <alternate name="Sandpoint Cathedral" type="B">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Location" />
+            <property name="Subtype2" value="Back" />
+            <property name="Flavour" value="The grandest building in the town, Sandpoint’s new cathedral is dedicated to the six deities worshiped by the towns founders: Abadar, Desna, Erastil, Gozreh, Sarenrae and Shelyn." />
+        </alternate>
+        </card>
+        <card id="9a364cb6-4d07-4bfe-b17d-26988dc4beb8" name="The Old Light">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Location" />
+            <property name="Subtype2" value="Front" />
+            <property name="Attr1" value="Monster 4&#10;Barrier 1&#10;Weapon 1&#10;Spell 2&#10;Armor 0&#10;Item 1&#10;Ally 0&#10;Blessing 0" />
+            <property name="Attr2" value="Add 1d6 to checks using the Fire trait." />
+            <property name="Attr3" value="Succeed at an Intelligence or Knowledge 6 check." />
+            <property name="Attr4" value="No effect." />
+        <alternate name="The Old Light" type="B">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Location" />
+            <property name="Subtype2" value="Back" />
+            <property name="Flavour" value="A crumbling tower rises from the cliff west of Sandpoint. Predating the town itself, the spire is thought to be a ruined lighthouse, but some claim it has a more mysterious history." />
+        </alternate>
+        </card>
+        <card id="0be3b7c4-07da-43e5-8c90-8533b23aded0" name="Town Square">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Location" />
+            <property name="Subtype2" value="Front" />
+            <property name="Attr1" value="Monster 2&#10;Barrier 1&#10;Weapon 1&#10;Spell 2&#10;Armor 0&#10;Item 1&#10;Ally 2&#10;Blessing 0" />
+            <property name="Attr2" value="You may discard a card from your hand it to explore during your turn. This card may not be recharged." />
+            <property name="Attr3" value="Banish a card from your hand." />
+            <property name="Attr4" value="On closing, each character at this location must immediately choose a card and recharge it; each character may then draw a card." />
+        <alternate name="Town Square" type="B">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Location" />
+            <property name="Subtype2" value="Back" />
+            <property name="Flavour" value="All the sound and life of the community comes together at this well-trodden square at the heart oF town. People of all walks enjoy themselves here as they go about their daily business, whether it be shopping for goods, hawking their wares, or meeting with friends – but even here there are those who lurk in the shadows, eyeing marks for more nefarious purposes." />
+        </alternate>
+        </card>
+        <card id="b56578de-7f94-44fc-bfdb-26bc1c970c49" name="Explosive Runes">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Bane" />
+            <property name="Subtype" value="Barrier" />
+        </card>
+        <card id="d4c2c753-f106-4fe6-987c-7be2f6a24123" name="Spectre">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Bane" />
+            <property name="Subtype" value="Monster" />
+        </card>
+        <card id="3844666e-8d59-4947-adec-8e937ac6891a" name="Giant Hermit Crab">
+            <property name="Abr" value="1" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Bane" />
+            <property name="Subtype" value="Monster" />
+        </card>
+        <card id="e0774e65-505b-4887-bdf1-156bdab2c5f7" name="Goblin Raider">
+            <property name="Abr" value="1" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Bane" />
+            <property name="Subtype" value="Henchman" />
+            <property name="Subtype2" value="Monster" />
+            <property name="Traits" value="Goblin" />
+            <property name="Attr1" value="If undefeated, bury 1 item or weapon of your choice from your discard pile.&#10;If defeated, you may immediately attempt to close your location." />
+            <property name="Attr2" value="Combat" />
+            <property name="Attr3" value="8" />
+        </card>
+        <card id="35cf14c1-d5ce-4a04-aa21-dc2fc024d640" name="Tsuto Kaikitsu">
+            <property name="Abr" value="1" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Bane" />
+            <property name="Subtype" value="Henchman" />
+            <property name="Subtype2" value="Monster" />
+            <property name="Traits" value="Half-Elf&#10;Rogue&#10;Monk" />
+            <property name="Attr1" value="The difficulty of checks to defeat Tsuto with the Attack or Ranged traits is increased by 2.&#10;If defeated, you may immediately attempt to close this location." />
+            <property name="Attr2" value="Combat" />
+            <property name="Attr3" value="10" />
+        </card>
+        <card id="cd3153c6-d38f-4fec-860e-1d96fe49d52b" name="Goblin Cutpurse">
+            <property name="Abr" value="1" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Bane" />
+            <property name="Subtype" value="Monster" />
+        </card>
+        <card id="d174cd67-5765-4528-846c-587bd25f74a3" name="Goblin Pyro">
+            <property name="Abr" value="1" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Bane" />
+            <property name="Subtype" value="Monster" />
+        </card>
+        <card id="9f3bd4f9-cd9c-4571-85d6-68e48f66ceca" name="Ripnugget and Stickfoot">
+            <property name="Abr" value="1" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Bane" />
+            <property name="Subtype" value="Villain" />
+            <property name="Subtype2" value="Monster" />
+            <property name="Traits" value="Goblin&#10;Fighter&#10;and&#10;Animal" />
+            <property name="Flavour" value="&quot;Got big crown, got big knives,&#10;Got big gems for goblin wives!&#10;Me big chief, him big gecko,&#10;Nugget make your face a wreck-o!&quot; --Chief Ripnugget's goblin song" />
+            <property name="Attr1" value="Before the encounter, succeed at a Stealth 9 check or the difficulty to defeat Ripnugget is increased by 2." />
+            <property name="Attr2" value="(Stickfoot) Combat" />
+            <property name="Attr3" value="9" />
+            <property name="Attr4" value="(Ripnugget) Combat" />
+            <property name="Attr5" value="10" />
+            <property name="Attr6" value="THEN" />
+        </card>
+        <card id="72372d39-7897-4fc2-abab-72cca616b437" name="Sage">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Ally" />
+            <property name="Traits" value="Basic" />
+        </card>
+        <card id="ef599a36-c3a7-4e7e-a50b-37e664cae08a" name="Potion of Healing">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Item" />
+        </card>
+        <card id="bb8fdbdf-183f-4394-a3e3-7ac887acc57e" name="Fiery Weapon">
+            <property name="Abr" value="1" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Spell" />
+        </card>
+        <card id="3d7f266b-df44-4f6b-8689-deb4be8d4e01" name="Dogslicer +1">
+            <property name="Abr" value="1" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Weapon" />
+        </card>
+        <card id="eafa7307-14ad-4208-a19b-b69db11e684e" name="Blessing of Calistria">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Blessing" />
+        </card>
+        <card id="ff9b787b-9692-4bff-8ec2-aeb25be0b035" name="Blessing of Desna">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Blessing" />
+            <property name="Traits" value="Divine&#10;Desna" />
+            <property name="Attr1" value="Discard this card to add 1 die to a check.&#10;Discard this card to add 2 dice to a check to recharge a card.&#10;Discard this card to explore your location." />
+            <property name="Attr2" value="Intelligence&#10;Arcane&#10;Divine" />
+            <property name="Attr3" value="5" />
+            <property name="Recharge" value="If the top card of the blessings discard pile matches this card, recharge it instead of discarding it." />
+        </card>
+        <card id="65c4b9a4-51de-4730-8d31-ce3c7be1aaf5" name="Blessing of Erastil">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Blessing" />
+        </card>
+        <card id="78c1c587-c4c3-435c-bfef-4d07f35cb686" name="Blessing of Gorum">
+            <property name="Abr" value="B" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Blessing" />
+        </card>
+        <card id="dece692f-2f95-48cd-afa8-1e3f82ca2058" name="Blessing of Lamashtu">
+            <property name="Abr" value="1" />
+            <property name="Copyright" value="Yes" />
+            <property name="Type" value="Boon" />
+            <property name="Subtype" value="Blessing" />
+        </card>
+    </cards>
+</set>

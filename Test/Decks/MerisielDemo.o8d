@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="74613db9-8b6d-4290-95b8-a5605216ec72">
+  <section name="Character" shared="False">
+    <card qty="1" id="94640f76-d600-4a81-a92d-09c808e6fbc5">Merisiel</card>
+    <card qty="1" id="11de0cad-95e8-475c-830e-6c3a5a40c5ee">Merisiel</card>
+  </section>
+  <section name="Weapon" shared="False">
+    <card qty="1" id="38fe327f-0eaa-4ffb-af6f-df2580b32172">Dagger</card>
+    <card qty="1" id="a9759def-61c0-4afb-b141-d99fc09ad203">Dart</card>
+  </section>
+  <section name="Spell" shared="False" />
+  <section name="Armor" shared="False">
+    <card qty="1" id="10b3f741-1be8-4e81-ac30-26147aea5052">Leather Armor</card>
+  </section>
+  <section name="Item" shared="False">
+    <card qty="1" id="39fc19fc-ca9e-41f2-a538-4a65b6e1a90e">Potion of Glibness</card>
+    <card qty="2" id="f9b6d058-35d5-4a72-a41b-e8bc7e106dd4">Thieves' Tools</card>
+  </section>
+  <section name="Ally" shared="False">
+    <card qty="1" id="f3bc85be-6b6d-42aa-ad98-7a013c72665d">Burglar</card>
+    <card qty="1" id="64afddeb-9d41-48c3-b15e-987e9ef56494">Guard</card>
+  </section>
+  <section name="Blessing" shared="False">
+    <card qty="4" id="2579bc04-8daa-4ac0-a313-3baab6f8d547">Blessing of the Gods</card>
+  </section>
+  <section name="Feat" shared="False" />
+  <section name="Story" shared="True" />
+  <section name="Henchman" shared="True" />
+  <section name="Monster" shared="True" />
+  <section name="Barrier" shared="True" />
+  <section name="Armor" shared="True" />
+  <section name="Weapon" shared="True" />
+  <section name="Spell" shared="True" />
+  <section name="Item" shared="True" />
+  <section name="Ally" shared="True" />
+  <section name="Blessing" shared="True" />
+  <section name="Loot" shared="True" />
+  <section name="Location" shared="True" />
+  <section name="Villain" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

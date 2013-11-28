@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="74613db9-8b6d-4290-95b8-a5605216ec72">
+  <section name="Character" shared="False">
+    <card qty="1" id="9dd83e5f-14a0-4baf-9754-cb120b2c8cdc">Kyra</card>
+    <card qty="1" id="a3a0a74f-a98e-4063-993c-46e81eb8391e">Kyra</card>
+  </section>
+  <section name="Weapon" shared="False" />
+  <section name="Spell" shared="False">
+    <card qty="1" id="ac532258-6361-49d5-88a8-df48facdd94b">Cure</card>
+    <card qty="1" id="835d2947-6072-49ae-b77d-35e8b31613a8">Guidance</card>
+    <card qty="1" id="eb00277e-8f59-4fbb-afaf-9b7d05d6de43">Mace</card>
+    <card qty="1" id="b223538a-b367-4193-8f88-2c471be07c30">Quarterstaff</card>
+  </section>
+  <section name="Armor" shared="False">
+    <card qty="1" id="2b7acff4-1d7a-4fb5-bbad-f680668d864b">Half-Plate</card>
+  </section>
+  <section name="Item" shared="False">
+    <card qty="1" id="125d52bc-1a73-4051-b71e-fedf5aac41ee">Holy Water</card>
+  </section>
+  <section name="Ally" shared="False">
+    <card qty="1" id="08ed22ff-9e5c-4fa7-8ba8-d855da7bedd6">Guard</card>
+  </section>
+  <section name="Blessing" shared="False">
+    <card qty="5" id="5be9295e-789f-498f-a169-860819e56db3">Blessing of the Gods</card>
+  </section>
+  <section name="Feat" shared="False" />
+  <section name="Story" shared="True" />
+  <section name="Henchman" shared="True" />
+  <section name="Monster" shared="True" />
+  <section name="Barrier" shared="True" />
+  <section name="Armor" shared="True" />
+  <section name="Weapon" shared="True" />
+  <section name="Spell" shared="True" />
+  <section name="Item" shared="True" />
+  <section name="Ally" shared="True" />
+  <section name="Blessing" shared="True" />
+  <section name="Loot" shared="True" />
+  <section name="Location" shared="True" />
+  <section name="Villain" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

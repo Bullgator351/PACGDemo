@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Feats" id="f2f52bfc-3739-4fb8-b517-7e62f22c757d" gameId="74613db9-8b6d-4290-95b8-a5605216ec72" gameVersion="1.0.0.1" version="1.1.0.0">
+  <cards>
+   <card id="7202ebd4-c258-44ba-baa0-ee0d139d5742" name="Strength d4">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="ab03283a-4b4d-4d40-bebd-04b84360e17b" name="Strength d6">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="489d9684-8789-4e79-8a7d-4b82144074c2" name="Strength d8">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="eb31ccde-a36f-4f6c-b17e-34217d5a1424" name="Strength d10">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="1ebba3b6-de91-456c-affd-15e262dba064" name="Strength d12">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="897bff83-017a-488c-ad75-13a4fab38b60" name="Strength +1">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="2343daae-827e-4118-9681-c7687fcb9a7d" name="Strength +2">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="f4bbb8bb-6a60-43ba-b5b5-9ff02ca89436" name="Strength +3">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="a6a65e1b-0de3-4671-9598-41e060a3b5af" name="Strength +4">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="cfb56ed8-7073-4fdd-b363-f47acd4ae218" name="Dexterity d4">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="cfb56ed8-7073-4fdd-b363-f47acd4ae218" name="Dexterity d6">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="76b5e07b-84e2-42e2-8ffb-2ecf4038a89c" name="Dexterity d8">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="11932bba-7758-41b4-84f1-2cc4bd2fe0b7" name="Dexterity d10">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="5625d853-5e89-499c-a4df-443749f247e2" name="Dexterity d12">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="2e212c53-51f7-421c-bdce-cdfa9627e9d0" name="Dexterity +1">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="28c38082-91b3-4826-a3b4-879e0832d137" name="Dexterity +2">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="d29282e5-2c1c-4d62-8ecd-cf8051d9bf8f" name="Dexterity +3">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="a15d77f2-5c1c-465e-8410-dfeb2dd215d2" name="Dexterity +4">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="a15d77f2-5c1c-465e-8410-dfeb2dd215d2" name="Constitution d4">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="0d138021-22d6-4738-8aba-de01705bf8f2" name="Constitution d6">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="4d53ad64-30ff-4ddb-bc7e-c8cbf2c27e47" name="Constitution d8">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="a6c5e70b-5a45-4bb6-bf01-1c19c656b0f8" name="Constitution d10">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="9ce7f851-bd42-45ab-a818-be44a4cbb5f3" name="Constitution d12">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="6a33c4f5-aae2-44eb-a398-811ebf0e2a98" name="Constitution +1">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="aad16be1-ff9d-45cb-bba3-6ffb77cfea37" name="Constitution +2">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="d44446e5-16bc-4c6d-841d-fa89fca59a71" name="Constitution +3">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="ac0ae179-ea51-4bc6-bf17-a1fc502953ca" name="Constitution +4">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="4ea2889b-acb7-4af4-adda-615237891da7" name="Intelligence d4">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="9ccfd591-cd31-4b6b-83c9-1a9eb2e0dd07" name="Intelligence d6">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="a0f87cd6-d91d-453e-afcd-d49f488defd8" name="Intelligence d8">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="a584f0f1-90a6-4166-9871-a4157cb00068" name="Intelligence d10">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="b3beb3d3-7ba9-4ed1-bc7a-c2af73927314" name="Intelligence d12">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="93f6d87b-d33b-45b6-88b8-7a71d0571850" name="Intelligence +1">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="4a98ebc7-7a49-4190-b359-a0bec5a18fb4" name="Intelligence +2">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="af22cc31-54a6-4e44-adaa-a9c91f6666ec" name="Intelligence +3">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="4e899520-ad66-4336-a8e2-1a0d929300e4" name="Intelligence +4">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="bdef77e8-ee2f-4f12-bb91-b7092cf5661d" name="Wisdom d4">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="fc8109f9-c1f3-4ff8-a949-da9592118b98" name="Wisdom d6">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="4791d067-89b7-49bd-bd55-785b7b798b95" name="Wisdom d8">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="f93c11d0-18c3-45c6-b3c7-9f1feb14c003" name="Wisdom d10">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="91e8abe3-0dd5-4fa6-a93b-0470f8cdc235" name="Wisdom d12">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="d12ac9d1-e6ee-428b-b4a9-21a7af68d6e4" name="Wisdom +1">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="0d96efd7-3559-482b-92cb-d0c8d27be791" name="Wisdom +2">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="17f894b5-8e13-45e7-b34d-45871e81407c" name="Wisdom +3">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="155e1c55-aa9d-4c39-add9-de66bc3e35f4" name="Wisdom +4">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="1059e752-9a01-43ce-969d-9c0f130c55e2" name="Charisma d4">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="507a4821-7d11-483e-9ac9-b65943e65ef3" name="Charisma d6">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="ce50af78-9779-4f16-aa8a-ccc14d0c73d8" name="Charisma d8">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="64c33576-20c4-47af-aaeb-bbe6092e0c3f" name="Charisma d10">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="ca593a43-3bdc-4089-b713-8ce08564d5c6" name="Charisma d12">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="bbb78a20-5349-47c7-951e-10cef25750f8" name="Charisma +1">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="3722de33-b715-4c16-90a8-32b27083b9e7" name="Charisma +2">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="0d0d7d98-9071-4a1a-b5f2-4309d7a1eabe" name="Charisma +3">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="6c0ec578-de27-4413-8f9e-eea298cd0f5e" name="Charisma +4">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Skill" />
+   </card>
+   <card id="c7693b0e-7960-4e67-a822-3604ec123880" name="Light Armors">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Power" />
+   </card>
+   <card id="c2f8f36a-f45e-4a98-bd3b-c9cf7b20d9a9" name="Heavy Armors">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Power" />
+   </card>
+   <card id="f3ca8465-2cb8-448d-a534-e7f48648f105" name="Weapons">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Power" />
+   </card>
+   <card id="09f183e4-b1ca-48a7-9436-b69441fbd613" name="Hand Size 4">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Power" />
+   </card>
+   <card id="6697ab37-307f-4ecd-8f22-243c1af9a81b" name="Hand Size 5">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Power" />
+   </card>
+   <card id="6697ab37-307f-4ecd-8f22-243c1af9a81b" name="Hand Size 6">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Power" />
+   </card>
+   <card id="73250003-bf53-415f-903e-c9b99e5a156d" name="Hand Size 7">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Power" />
+   </card>
+   <card id="29148490-6b92-46c3-afa9-4d7a870cf588" name="Hand Size 8">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Power" />
+   </card>
+   <card id="cafc44ae-43be-4deb-9c71-bb80811546d8" name="Hand Size 9">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Power" />
+   </card>
+   <card id="20e1eead-d4a1-4821-8773-2e4efb35aed2" name="Weapon">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Favoured" />
+   </card>
+   <card id="be4df931-1677-4d4c-ba23-e1a0815aee12" name="Armor">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Favoured" />
+   </card>
+   <card id="af8d4bfd-b348-45c8-9f4a-c5df0dfe6405" name="Ally">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Favoured" />
+   </card>
+   <card id="353e23fe-55fe-46a7-9f58-8106cbee854b" name="Item">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Favoured" />
+   </card>
+   <card id="4c3cca19-ba76-4a97-89ce-22870668c9e4" name="Blessing">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Favoured" />
+   </card>
+   <card id="6503aacf-c9ce-440d-b71f-826babd89c43" name="Spell">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Favoured" />
+   </card>
+   <card id="3130b4c3-7a67-4b7a-8698-992e2411ac13" name="Loot">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Feat" />
+    <property name="Subtype" value="Favoured" />
+   </card>
+  </cards>
+</set>

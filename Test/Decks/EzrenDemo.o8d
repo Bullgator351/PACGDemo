@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="74613db9-8b6d-4290-95b8-a5605216ec72">
+  <section name="Character" shared="False">
+    <card qty="1" id="426f32b1-9ee5-469d-9b50-0aec021051d2">Ezren</card>
+    <card qty="1" id="513558d1-c088-4e96-8810-7d65e534a508">Ezren</card>
+  </section>
+  <section name="Weapon" shared="False">
+    <card qty="1" id="668868ef-bdbf-4006-89e1-218c17130067">Quarterstaff</card>
+  </section>
+  <section name="Spell" shared="False">
+    <card qty="1" id="bd19406a-ba4c-49ee-b51f-ebb6a73ab034">Arcane Armor</card>
+    <card qty="1" id="0306324b-dcbb-42e1-bf9e-799120a269c1">Force Missile</card>
+    <card qty="1" id="653becf4-ad48-4aef-9827-04e6723d57e8">Levitate</card>
+    <card qty="2" id="49b83b45-3712-4581-8ad1-c1f12e933cec">Lightning Touch</card>
+    <card qty="1" id="f8f951a4-571b-41e4-a0fb-83ab0b60d4ea">Sleep</card>
+  </section>
+  <section name="Armor" shared="False" />
+  <section name="Item" shared="False">
+    <card qty="1" id="e663a3cb-8d78-4c2e-a94c-22ad4d5e6489">Blast Stone</card>
+    <card qty="1" id="62ac3453-ccf4-47f3-adc6-5ad81213abaa">Bracers of Protection</card>
+    <card qty="1" id="04ae0e3f-26d2-4669-acc7-6fc0e954f3f9">Codex</card>
+  </section>
+  <section name="Ally" shared="False">
+    <card qty="1" id="1dce50e4-71b4-40a9-aaa9-97002b9dc096">Sage</card>
+    <card qty="1" id="a432ffa0-3cdb-420d-9598-324b530328f0">Standard Bearer</card>
+  </section>
+  <section name="Blessing" shared="False" />
+  <section name="Feat" shared="False" />
+  <section name="Story" shared="True" />
+  <section name="Henchman" shared="True" />
+  <section name="Monster" shared="True" />
+  <section name="Barrier" shared="True" />
+  <section name="Armor" shared="True" />
+  <section name="Weapon" shared="True" />
+  <section name="Spell" shared="True" />
+  <section name="Item" shared="True" />
+  <section name="Ally" shared="True" />
+  <section name="Blessing" shared="True" />
+  <section name="Loot" shared="True" />
+  <section name="Location" shared="True" />
+  <section name="Villain" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

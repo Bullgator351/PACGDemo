@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="74613db9-8b6d-4290-95b8-a5605216ec72">
+  <section name="Story" shared="True">
+    <card qty="1" id="8dfb4d20-7bd0-4ead-a28e-01139b336cf6">Burnt Offerings</card>
+    <card qty="1" id="3999a9cb-261c-4fe4-a277-74a67f60af42">Attack on Sandpoint</card>
+  </section>
+  <section name="Henchman" shared="True">
+    <card qty="2" id="e0774e65-505b-4887-bdf1-156bdab2c5f7">Goblin Raider</card>
+    <card qty="1" id="35cf14c1-d5ce-4a04-aa21-dc2fc024d640">Tsuto Kaikitsu</card>
+  </section>
+  <section name="Monster" shared="True">
+    <card qty="1" id="d4c2c753-f106-4fe6-987c-7be2f6a24123">Spectre</card>
+    <card qty="1" id="cd3153c6-d38f-4fec-860e-1d96fe49d52b">Goblin Cutpurse</card>
+    <card qty="1" id="d174cd67-5765-4528-846c-587bd25f74a3">Goblin Pyro</card>
+  </section>
+  <section name="Barrier" shared="True">
+    <card qty="1" id="b56578de-7f94-44fc-bfdb-26bc1c970c49">Explosive Runes</card>
+  </section>
+  <section name="Item" shared="True">
+    <card qty="1" id="bb8fdbdf-183f-4394-a3e3-7ac887acc57e">Fiery Weapon</card>
+  </section>
+  <section name="Ally" shared="True">
+    <card qty="1" id="72372d39-7897-4fc2-abab-72cca616b437">Sage</card>
+  </section>
+  <section name="Location" shared="True">
+    <card qty="1" id="0be3b7c4-07da-43e5-8c90-8533b23aded0">Town Square</card>
+    <card qty="1" id="99523793-463c-41bd-84c2-046ec7531443">Sandpoint Cathedral</card>
+    <card qty="1" id="9a364cb6-4d07-4bfe-b17d-26988dc4beb8">The Old Light</card>
+    <card qty="1" id="0429c27f-bcee-438f-bfc3-70d4e368b1c0">Desecrated Vault</card>
+  </section>
+  <section name="Character" shared="False" />
+  <section name="Weapon" shared="False" />
+  <section name="Spell" shared="False" />
+  <section name="Armor" shared="False" />
+  <section name="Item" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Blessing" shared="False" />
+  <section name="Feat" shared="False" />
+  <section name="Armor" shared="True" />
+  <section name="Weapon" shared="True">
+    <card qty="1" id="3d7f266b-df44-4f6b-8689-deb4be8d4e01">Dogslicer +1</card>
+  </section>
+  <section name="Spell" shared="True">
+    <card qty="1" id="bb8fdbdf-183f-4394-a3e3-7ac887acc57e">Fiery Weapon</card>
+  </section>
+  <section name="Blessing" shared="True">
+    <card qty="5" id="eafa7307-14ad-4208-a19b-b69db11e684e">Blessing of Calistria</card>
+    <card qty="5" id="ff9b787b-9692-4bff-8ec2-aeb25be0b035">Blessing of Desna</card>
+    <card qty="5" id="65c4b9a4-51de-4730-8d31-ce3c7be1aaf5">Blessing of Erastil</card>
+    <card qty="2" id="78c1c587-c4c3-435c-bfef-4d07f35cb686">Blessing of Gorum</card>
+    <card qty="5" id="dece692f-2f95-48cd-afa8-1e3f82ca2058">Blessing of Lamashtu</card>
+  </section>
+  <section name="Loot" shared="True" />
+  <section name="Villain" shared="True">
+    <card qty="1" id="9f3bd4f9-cd9c-4571-85d6-68e48f66ceca">Ripnugget and Stickfoot</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

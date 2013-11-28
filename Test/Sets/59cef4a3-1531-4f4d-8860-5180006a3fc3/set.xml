@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Markers and Tokens" id="59cef4a3-1531-4f4d-8860-5180006a3fc3" gameId="74613db9-8b6d-4290-95b8-a5605216ec72" gameVersion="1.0.0.0" version="1.0.0.1">
+  <markers>
+    <marker id="8497ec89-d72f-40aa-aff6-e04f5dd61eb3" name="d4" />
+    <marker id="e576e6d6-2490-4e92-b0c6-c2a9f938bf19" name="d6" />
+    <marker id="b963097e-7797-4b3d-9139-9772c9425527" name="d8" />
+    <marker id="00c4464b-c6b2-4eae-8db1-fe48f398aa5e" name="d10" />
+    <marker id="b6cf9554-39ff-4996-8ecd-f415e41af927" name="d12" />
+	<marker id="14645ca5-99f8-4022-a9fa-1c9ea130c455" name="+" />
+	<marker id="4d294dcc-437a-4033-a1d9-7d2472d4f4c6" name="-" />
+	<marker id="e8e39b2f-9503-4274-9902-ad40c2c221f3" name="Cards" />
+  </markers>
+  <cards>
+   <card id="0920bc99-d64f-4b51-b00f-a115d0bc5d63" name="Custom">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Character" />
+	<property name="Subtype2" value="Front" />
+   <alternate name="Custom" type="B">
+    <property name="Abr" value="O" />
+    <property name="Type" value="Character" />
+    <property name="Subtype2" value="Back" />
+    <property name="Attr2" value="Strength: &#10;Dexterity: &#10;Constitution: &#10;Intelligence: &#10;Wisdom: &#10;Charisma: " />
+   </alternate>
+   </card>
+   <card id="426f32b1-9ee5-469d-9b50-0aec021051d2" name="Ezren">
+    <property name="Abr" value="B" />
+    <property name="Type" value="Character" />
+    <property name="Subtype" value="Token" />
+   </card>
+   <card id="9dd83e5f-14a0-4baf-9754-cb120b2c8cdc" name="Kyra">
+    <property name="Abr" value="B" />
+    <property name="Type" value="Character" />
+    <property name="Subtype" value="Token" />
+   </card>
+   <card id="94640f76-d600-4a81-a92d-09c808e6fbc5" name="Merisiel">
+    <property name="Abr" value="B" />
+    <property name="Type" value="Character" />
+    <property name="Subtype" value="Token" />
+   </card>
+   <card id="36d7d85d-8658-47aa-bc1f-2c7058b17f81" name="Valeros">
+    <property name="Abr" value="B" />
+    <property name="Type" value="Character" />
+    <property name="Subtype" value="Token" />
+   </card>
+  </cards>
+</set>
