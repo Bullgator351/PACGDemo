@@ -1097,7 +1097,7 @@ def scenarioSetup(card):
 	#Create the Blessing deck
 	src = shared.piles['Blessing']
 	dst = shared.piles['Blessing Deck']
-	while len(src) > 0 and len(dst) < 30:
+	while len(src) > 0 and len(dst) < 12:
 		src.random().moveTo(dst)		
 	
 	unlockPile(hidden)

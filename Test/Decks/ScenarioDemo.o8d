@@ -17,7 +17,7 @@
     <card qty="1" id="b56578de-7f94-44fc-bfdb-26bc1c970c49">Explosive Runes</card>
   </section>
   <section name="Item" shared="True">
-    <card qty="1" id="bb8fdbdf-183f-4394-a3e3-7ac887acc57e">Fiery Weapon</card>
+    <card qty="1" id="ef599a36-c3a7-4e7e-a50b-37e664cae08a">Potion of Healing</card>
   </section>
   <section name="Ally" shared="True">
     <card qty="1" id="72372d39-7897-4fc2-abab-72cca616b437">Sage</card>
@@ -28,15 +28,6 @@
     <card qty="1" id="9a364cb6-4d07-4bfe-b17d-26988dc4beb8">The Old Light</card>
     <card qty="1" id="0429c27f-bcee-438f-bfc3-70d4e368b1c0">Desecrated Vault</card>
   </section>
-  <section name="Character" shared="False" />
-  <section name="Weapon" shared="False" />
-  <section name="Spell" shared="False" />
-  <section name="Armor" shared="False" />
-  <section name="Item" shared="False" />
-  <section name="Ally" shared="False" />
-  <section name="Blessing" shared="False" />
-  <section name="Feat" shared="False" />
-  <section name="Armor" shared="True" />
   <section name="Weapon" shared="True">
     <card qty="1" id="3d7f266b-df44-4f6b-8689-deb4be8d4e01">Dogslicer +1</card>
   </section>
@@ -50,9 +41,18 @@
     <card qty="2" id="78c1c587-c4c3-435c-bfef-4d07f35cb686">Blessing of Gorum</card>
     <card qty="5" id="dece692f-2f95-48cd-afa8-1e3f82ca2058">Blessing of Lamashtu</card>
   </section>
-  <section name="Loot" shared="True" />
   <section name="Villain" shared="True">
     <card qty="1" id="9f3bd4f9-cd9c-4571-85d6-68e48f66ceca">Ripnugget and Stickfoot</card>
   </section>
+  <section name="Character" shared="False" />
+  <section name="Weapon" shared="False" />
+  <section name="Spell" shared="False" />
+  <section name="Armor" shared="False" />
+  <section name="Item" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Blessing" shared="False" />
+  <section name="Feat" shared="False" />
+  <section name="Armor" shared="True" />
+  <section name="Loot" shared="True" />
   <notes><![CDATA[]]></notes>
 </deck>
