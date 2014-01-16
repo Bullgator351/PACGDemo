@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<game xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<game   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xmlns:xsd="http://www.w3.org/2001/XMLSchema"
         name="Pathfinder - Adventure Card Game Demo"
         id="74613db9-8b6d-4290-95b8-a5605216ec72" 
@@ -10,7 +10,7 @@
         description="Dealer's demo of the Pathfinder Adventure Card Game by Paizo"
         setsurl="http://www.github.com/Bullgator351/PACGDemo"
         gameurl="http://www.github.com/Bullgator351/PACGDemo"
-        authors="Bullgator (python by Memetix)"
+        authors="Bullgator (source: PACG by Memetix)"
         iconurl="http://cf.geekdo-images.com/images/pic1775517_t.jpg"
         usetwosidedtable="False">
     <scripts>
